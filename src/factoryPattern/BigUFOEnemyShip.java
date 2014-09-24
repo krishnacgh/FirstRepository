@@ -1,5 +1,5 @@
 package factoryPattern;
-/*Random Comment */
+/*Random Comment 2*/
 public class BigUFOEnemyShip extends UFOEnemyShip{
 	public BigUFOEnemyShip(){
 		setName("Big UFO Enemy Ship");
